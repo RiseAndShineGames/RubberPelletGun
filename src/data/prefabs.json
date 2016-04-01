@@ -1,1 +1,19 @@
-{}
+{
+    "bullet": {
+        "bullet": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 20,
+            "height": 20
+        },
+        "velocity": {
+            "x": 0,
+            "y": 0
+        },
+        "collisions": [],
+        "speed": 0.4
+    }
+}
